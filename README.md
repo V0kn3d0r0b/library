@@ -31,3 +31,6 @@
 # Схема базы данных
 ![Безымянный](https://user-images.githubusercontent.com/82318593/147379958-b50fb4d1-628a-41a1-8cc9-2a07bbcbdaa5.png)
 ----
+#### Тестовые логин и пароль для входа в систему
+- user@mail.ru
+- admin1
