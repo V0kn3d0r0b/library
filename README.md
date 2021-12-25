@@ -29,5 +29,5 @@
 - JQuery 3.4.1
 - Bootstrap 4.4.1
 # Схема базы данных
-![24122021](https://user-images.githubusercontent.com/82318593/147370435-f51e89b4-7c78-47f1-a1ae-915e07b6f713.png)
+![Безымянный](https://user-images.githubusercontent.com/82318593/147379958-b50fb4d1-628a-41a1-8cc9-2a07bbcbdaa5.png)
 ----
